@@ -1,0 +1,45 @@
+<style type="text/css">
+	/* Breadcrumb Hover Color */
+	.aerious-breadcrumb-holder a:hover{
+		color: #d33d33;
+	}
+	/* Header Default Menu */
+	/* Level 1: Active Menu Color */
+	.header-default-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li.current-menu-item>a,.header-default-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu > li.current-menu-ancestor>a{
+		color: #d33d33;
+	}
+	/* Level 2: Active Menu Color */
+	.header-default-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-item>a,.header-default-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-parent>a{
+		color: #dd9933;
+	}
+	/* Level 3: Active Menu Color */
+	.header-default-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-parent>.sub-menu>li.current-menu-item>a{
+		color: #81d742;
+	}
+	/* Header Light Menu */
+	/* Level 1: Active Menu Color */
+	.header-light-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li.current-menu-item>a,.header-light-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu > li.current-menu-ancestor>a{
+		color: #d33d33;
+	}
+	/* Level 2: Active Menu Color */
+	.header-light-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-item>a,.header-light-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-parent>a{
+		color: #dd9933;
+	}
+	/* Level 3: Active Menu Color */
+	.header-light-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-parent>.sub-menu>li.current-menu-item>a{
+		color: #81d742;
+	}
+	/* Header Dark Menu */
+	/* Level 1: Active Menu Color */
+	.header-dark-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li.current-menu-item>a,.header-dark-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu > li.current-menu-ancestor>a{
+		color: #d33d33;
+	}
+	/* Level 2: Active Menu Color */
+	.header-dark-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-item>a,.header-dark-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-parent>a{
+		color: #dd9933;
+	}
+	/* Level 3: Active Menu Color */
+	.header-dark-skin:not(.is-sticky) .aerious-mobile-main-menu-container .aerious-mobile-main-menu>li>.sub-menu>li.current-menu-parent>.sub-menu>li.current-menu-item>a{
+		color: #81d742;
+	}
+</style>
